@@ -1,8 +1,12 @@
 package planetEnumeration;
 
+import com.company.Main;
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
+import static com.company.Main.Planets.EARTH;
 
 public class planetEnumeration {
     private JPanel mainPanel;
@@ -16,7 +20,8 @@ public class planetEnumeration {
     private JButton btnSaturn;
     private JButton btnNeptune;
     private JLabel lblClickPlanet;
-    private JLabel lblyouWouldGoTo;
+    private JLabel lblDisplay;
+    //private Main.Planets lblyouWouldGoTo;
 
     public static void main(String[] args) {
         // write your code here
@@ -32,7 +37,8 @@ public class planetEnumeration {
         btnJUSTEARTH.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
-
+                //String strEARTH = planets.pass
+                //lblDisplay = EARTH;
 
             }
         });

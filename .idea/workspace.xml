@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="205c8897-8524-4a23-8206-fca1fbe08d9a" name="Default Changelist" comment="" />
+    <list default="true" id="205c8897-8524-4a23-8206-fca1fbe08d9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planetEnumeration/planetEnumeration.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/planetEnumeration/planetEnumeration.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planetEnumeration/planetEnumeration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/planetEnumeration/planetEnumeration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YaCxFPhpzHCEhi5DqY7fSnefo4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,9 +30,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="172" />
   </component>
-  <component name="RunManager" selected="Application.planetEnumeration">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="planetEnumeration" />
@@ -49,8 +59,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.planetEnumeration" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.planetEnumeration" />
       </list>
     </recent_temporary>
   </component>
@@ -76,21 +86,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1095" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583343935679" />
-    <state width="878" height="279" key="GridCell.Tab.0.bottom" timestamp="1583344994905">
+    <state width="1054" height="2" key="GridCell.Tab.0.bottom" timestamp="1583516523426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583344994905" />
-    <state width="878" height="279" key="GridCell.Tab.0.center" timestamp="1583344994905">
+    <state width="1054" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583516523426" />
+    <state width="1054" height="2" key="GridCell.Tab.0.center" timestamp="1583516523426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="878" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583344994905" />
-    <state width="878" height="279" key="GridCell.Tab.0.left" timestamp="1583344994905">
+    <state width="1054" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583516523426" />
+    <state width="1054" height="2" key="GridCell.Tab.0.left" timestamp="1583516523426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="878" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583344994905" />
-    <state width="878" height="279" key="GridCell.Tab.0.right" timestamp="1583344994905">
+    <state width="1054" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583516523426" />
+    <state width="1054" height="2" key="GridCell.Tab.0.right" timestamp="1583516523426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="878" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583344994905" />
+    <state width="1054" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583516523426" />
+    <state width="1054" height="347" key="GridCell.Tab.1.bottom" timestamp="1583515744501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1054" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583515744501" />
+    <state width="1054" height="347" key="GridCell.Tab.1.center" timestamp="1583515744501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1054" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583515744501" />
+    <state width="1054" height="347" key="GridCell.Tab.1.left" timestamp="1583515744501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1054" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583515744501" />
+    <state width="1054" height="347" key="GridCell.Tab.1.right" timestamp="1583515744501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1054" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583515744501" />
   </component>
 </project>
